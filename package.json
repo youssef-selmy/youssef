@@ -1,0 +1,14 @@
+{
+  "name": "portofolio-main",
+  "version": "1.0.0",
+  "description": "My new professional Portofolio 😎",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "portofolio-main": "file:"
+  }
+}
